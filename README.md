@@ -9,7 +9,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
-![Git-Hub](https://img.shields.io/badge/-Git-Hub-090909?style=for-the-badge&logo=Git-Hub)
+![Git-Hub](https://img.shields.io/badge/-Git-Hub-090909?style=for-the-badge&logo=GitHub)
 
 
 ### ✉ Mail me: vityaandrashchuk794@gmail.com
