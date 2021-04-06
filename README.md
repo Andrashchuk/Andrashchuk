@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
 ### ✉ Mail me: vityaandrashchuk794@gmail.com
-### 🌍 Instagram: @a_.vikrot._
+### 🌍 Instagram: @a_.viktor._
 
 
 
